@@ -1,1 +1,7 @@
 /node_modules
+nodeapp.log
+
+cert.pem
+key.pem
+
+server-old.js
